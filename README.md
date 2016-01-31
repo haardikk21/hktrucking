@@ -20,8 +20,11 @@ Read LOCATIONS.md to learn more
 
 ## Screenshots
 http://i.imgur.com/Y3Usrxm.png
+
 http://i.imgur.com/sC2KSBg.png
-http://i.imgur.com/YvYmukV.png
+
+http://i.imgur.com/YvYmukV.
+
 http://i.imgur.com/UmSYe7Z.png
 
 ## Requirements
